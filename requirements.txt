@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+langchain-core
+yandexgpt-python==0.2.3
+PyMuPDF
